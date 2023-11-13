@@ -7,9 +7,9 @@
 			<p><i class="fas fa-phone"></i> Hotline:0123456789</p>
 			<p><i class="fas fa-calendar"></i> (9h30 - 18h30 từ thứ 2 đến thứ 7)</p>
 			<p><i class="fas fa-mail-bulk"></i> Email: phamthanhdatcva@gmail.com</p>
-			<p><i class="fas fa-map-marker-alt"></i> Địa chỉ:Không phải fan liver</p>
-			<a class="btn dx-inline" href=""><i class="fab fa-facebook"></i></a>
-			<a class="btn dx-inline" href=""><i class="fab fa-instagram"></i></a>
+			<p><i class="fas fa-map-marker-alt"></i> Địa chỉ:59 Giải Phóng</p>
+			<a class="btn dx-inline" href="https://www.facebook.com/stormnancy2505"><i class="fab fa-facebook"></i></a>
+			<a class="btn dx-inline" href="https://instagram.com/___thaoquyen_?igshid=bHduZ2p4Z250enF6&utm_source=qr"><i class="fab fa-instagram"></i></a>
 		</div>
 		<div class="col-md-3 col-sm-12">
 			<h5>TRUY CẬP NHANH</h5>
